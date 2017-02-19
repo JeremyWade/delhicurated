@@ -32,6 +32,11 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem 'flexslider', '~> 2.2'
+gem 'bootstrap', '~> 4.0.0.alpha3'
+gem 'lightbox-bootstrap-rails', '5.1.0.1'
+gem 'scrollreveal-rails', '~> 0.0.1'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
