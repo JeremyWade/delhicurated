@@ -590,6 +590,7 @@ blockquote {
 @media (min-width: 980px) and (max-width: 1200px) {
 	.oi_header_menu li { margin-right:5px;}
 	.oi_blocks_post .oi_post_holder { height:560px;}
+    .oi_head_holder { margin-top:70px !important}
 
 }
 @media (min-width: 767px) and (max-width: 980px) {
